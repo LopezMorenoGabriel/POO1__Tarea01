@@ -1,0 +1,7 @@
+C:\C_SHARP_Tarea\POO_Tarea_semana1\POO_Tarea_semana1\bin\Debug\POO_Tarea_semana1.exe.config
+C:\C_SHARP_Tarea\POO_Tarea_semana1\POO_Tarea_semana1\bin\Debug\POO_Tarea_semana1.exe
+C:\C_SHARP_Tarea\POO_Tarea_semana1\POO_Tarea_semana1\bin\Debug\POO_Tarea_semana1.pdb
+C:\C_SHARP_Tarea\POO_Tarea_semana1\POO_Tarea_semana1\obj\Debug\POO_Tarea_semana1.csproj.AssemblyReference.cache
+C:\C_SHARP_Tarea\POO_Tarea_semana1\POO_Tarea_semana1\obj\Debug\POO_Tarea_semana1.csproj.CoreCompileInputs.cache
+C:\C_SHARP_Tarea\POO_Tarea_semana1\POO_Tarea_semana1\obj\Debug\POO_Tarea_semana1.exe
+C:\C_SHARP_Tarea\POO_Tarea_semana1\POO_Tarea_semana1\obj\Debug\POO_Tarea_semana1.pdb

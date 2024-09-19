@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\C_SHARP_Tarea\\POO_Tarea_semana1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B82F8370-DE59-411B-8508-23A3F909FEE2}|Tarea01_Problema09\\Tarea01_Problema09.csproj|c:\\c_sharp_tarea\\poo_tarea_semana1\\tarea01_problema09\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B82F8370-DE59-411B-8508-23A3F909FEE2}|Tarea01_Problema09\\Tarea01_Problema09.csproj|solutionrelative:tarea01_problema09\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B82F8370-DE59-411B-8508-23A3F909FEE2}|Tarea01_Problema09\\Tarea01_Problema09.csproj|c:\\c_sharp_tarea\\poo_tarea_semana1\\tarea01_problema09\\pelota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B82F8370-DE59-411B-8508-23A3F909FEE2}|Tarea01_Problema09\\Tarea01_Problema09.csproj|solutionrelative:tarea01_problema09\\pelota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\C_SHARP_Tarea\\POO_Tarea_semana1\\Tarea01_Problema09\\Program.cs",
+              "RelativeDocumentMoniker": "Tarea01_Problema09\\Program.cs",
+              "ToolTip": "C:\\C_SHARP_Tarea\\POO_Tarea_semana1\\Tarea01_Problema09\\Program.cs",
+              "RelativeToolTip": "Tarea01_Problema09\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T23:49:46.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pelota.cs",
+              "DocumentMoniker": "C:\\C_SHARP_Tarea\\POO_Tarea_semana1\\Tarea01_Problema09\\Pelota.cs",
+              "RelativeDocumentMoniker": "Tarea01_Problema09\\Pelota.cs",
+              "ToolTip": "C:\\C_SHARP_Tarea\\POO_Tarea_semana1\\Tarea01_Problema09\\Pelota.cs",
+              "RelativeToolTip": "Tarea01_Problema09\\Pelota.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAmwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T23:49:45.992Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

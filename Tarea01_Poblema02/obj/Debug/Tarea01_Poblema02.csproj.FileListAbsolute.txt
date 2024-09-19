@@ -1,0 +1,7 @@
+C:\C_SHARP_Tarea\POO_Tarea_semana1\Tarea01_Poblema02\bin\Debug\Tarea01_Poblema02.exe.config
+C:\C_SHARP_Tarea\POO_Tarea_semana1\Tarea01_Poblema02\bin\Debug\Tarea01_Poblema02.exe
+C:\C_SHARP_Tarea\POO_Tarea_semana1\Tarea01_Poblema02\bin\Debug\Tarea01_Poblema02.pdb
+C:\C_SHARP_Tarea\POO_Tarea_semana1\Tarea01_Poblema02\obj\Debug\Tarea01_Poblema02.csproj.AssemblyReference.cache
+C:\C_SHARP_Tarea\POO_Tarea_semana1\Tarea01_Poblema02\obj\Debug\Tarea01_Poblema02.csproj.CoreCompileInputs.cache
+C:\C_SHARP_Tarea\POO_Tarea_semana1\Tarea01_Poblema02\obj\Debug\Tarea01_Poblema02.exe
+C:\C_SHARP_Tarea\POO_Tarea_semana1\Tarea01_Poblema02\obj\Debug\Tarea01_Poblema02.pdb
